@@ -1,9 +1,10 @@
 - 👋 Hi, I’m leedonggyu
 - 👀 I’m interested in Typescript, Nodejs, React-native
-- 🌱 I’m currently learning nestjs, docker, go
+- 🌱 I’m currently learning nestjs, docker, go, vue.js
 - 📫 How to reach me ... 
 
 <img src="https://img.shields.io/npm/types/typescript"/>
+<img src="https://img.shields.io/node/v/node"/>
 
 <!---
 zkfmapf123/zkfmapf123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
