@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nestjs, docker, go
 - 📫 How to reach me ... 
 
-https://img.shields.io/npm/types/typescript
+<img src="https://img.shields.io/npm/types/typescript"/>
 
 <!---
 zkfmapf123/zkfmapf123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
