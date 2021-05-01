@@ -1,6 +1,6 @@
 - 👋 Hi, I’m leedonggyu
 - 👀 I’m interested in Typescript, Nodejs, React-native
-- 🌱 I’m currently learning nestjs, docker, go, vue.js
+- 🌱 I’m currently learning docker, go, vue.js
 
 - 📫 email : zkfmapf999@gmail.com
 - 📫 blog : https://blog.naver.com/zkfmapf123  
