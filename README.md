@@ -1,7 +1,7 @@
 - 👋 Hi, I’m leedonggyu
-- 👋 I'm use Typescript, Nodejs, React-native, Mysql
-- 👀 I’m interested in Backend, ios app
-- 🌱 I’m currently learning go, Docker, Ios
+- 👋 I'm use Typescript, Nodejs, React, React-native, Mysql
+- 👀 I’m interested in Backend, Xcode
+- 🌱 I’m currently learning go, Docker, Swift
 
 - 📫 email : zkfmapf999@gmail.com
 - 📫 blog : https://blog.naver.com/zkfmapf123  
