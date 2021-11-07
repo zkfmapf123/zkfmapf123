@@ -1,6 +1,6 @@
 - 👋 Hi, I’m leedonggyu
 - 👋 I'm use Typescript, Nodejs, React, React-native, Mysql
-- 👀 I’m interested in Backend, Xcode
+- 👀 I’m interested in Backend, Vuejs
 - 🌱 I’m currently learning go, Docker, Swift
 
 - 📫 email : zkfmapf999@gmail.com
