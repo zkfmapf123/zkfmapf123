@@ -2,7 +2,8 @@
 - 👋 I'm use Typescript, Nodejs, React, React-native, Mysql
 - 👀 I’m interested in Backend, Vuejs
 - 🌱 I’m currently learning go, Docker, Swift
-
+- 🌱 I'm Work a Backend Developer at Collabo-Ground
+ 
 - 📫 email : zkfmapf999@gmail.com
 - 📫 blog : https://blog.naver.com/zkfmapf123  
 
