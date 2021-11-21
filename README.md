@@ -1,7 +1,7 @@
 - 👋 Hi, I’m leedonggyu
 - 👋 I'm use Typescript, Nodejs, React, React-native, Mysql
-- 👀 I’m interested in Backend, Vuejs
-- 🌱 I’m currently learning go, Docker, Swift
+- 👀 I’m interested Vuejs, golang, Docker
+- 🌱 I’m currently learning Serverless, BigQuery
 - 🌱 I'm Work a Backend Developer at Collabo-Ground
  
 - 📫 email : zkfmapf999@gmail.com
