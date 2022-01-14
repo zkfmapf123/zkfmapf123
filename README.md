@@ -1,6 +1,6 @@
 - 👋 Hi, I’m leedonggyu
 - 👋 I'm use Typescript, Nodejs, React, React-native, Mysql
-- 👀 I’m interested Vuejs, golang, Docker
+- 👀 I’m interested Svelete, golang, Docker
 - 🌱 I’m currently learning GCP, AWS, BigQuery
 - 🌱 I'm Work a Backend Developer at Collabo-Ground
  
