@@ -1,8 +1,8 @@
 - 👋 Hi, I’m leedonggyu
 - 👋 I'm use Typescript, Nodejs, React, React-native, Mysql
-- 👀 I’m interested Svelete, golang, Docker
+- 👀 I’m interested python, golang, Docker
 - 🌱 I’m currently learning GCP, AWS, BigQuery
-- 🌱 I'm Work a Backend Developer at Collabo-Ground
+- 🌱 I'm Work a Backend Developer at Colavo-Ground
  
 - 📫 email : zkfmapf999@gmail.com
 - 📫 blog : https://blog.naver.com/zkfmapf123  
