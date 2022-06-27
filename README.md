@@ -1,7 +1,7 @@
 - 👋 Hi, I’m leedonggyu
 - 👋 I'm use Typescript, Nodejs, React, React-native, Mysql
-- 👀 I’m interested python, golang, Docker
-- 🌱 I’m currently learning GCP, AWS, BigQuery
+- 👀 I’m interested golang, Docker
+- 🌱 I’m currently learning AWS, BigQuery
  
 - 📫 email : zkfmapf999@gmail.com
 - 📫 blog : https://blog.naver.com/zkfmapf123  
