@@ -1,6 +1,6 @@
 - 👋 Hi, I’m leedonggyu
-- 👋 I'm use Typescript, Nodejs, React, React-native, Mysql
-- 👀 I’m interested Golang, MicroService, Message Queueing, Functional Programming
+- 👋 I'm use Typescript,Golang, Nodejs, React-native, Mysql
+- 👀 I’m interested Serverelss, MicroService, Message Queueing, Functional Programming
 - 🌱 I’m currently learning AWS
  
 - 📫 email : zkfmapf999@gmail.com
