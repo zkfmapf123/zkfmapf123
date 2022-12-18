@@ -1,5 +1,5 @@
 - 👋 Hi, I’m leedonggyu
-- 👋 I'm use Typescript,Golang, Nodejs, React-native, Mysql
+- 👋 I'm use Typescript, Golang, Nodejs, React-native, Mysql
 - 👀 I’m interested Serverelss, MicroService, Message Queueing, Functional Programming
 - 🌱 I’m currently learning AWS
  
