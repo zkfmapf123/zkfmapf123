@@ -12,13 +12,15 @@ jobs:
     steps:
       - uses: actions/checkout@v2
     
-      # Snake Animation
+    # Generates the snake  
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: ganaseogu_hoeny_fist
+          github_user_name: mishmanners
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+          
       - run: git status
           
       # Push the changes
