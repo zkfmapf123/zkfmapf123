@@ -4,6 +4,7 @@
 - 👋 I'm use Database RealTime Database, MySQL, Redis
 - 👀 I’m interested Serverelss, MicroService, Message Queueing, Functional Programming
 - 🌱 I’m currently learning AWS Lambda, EKS, Fargate
+- 🌱 I Want Terraform master
  
 - 📫 email : zkfmapf999@gmail.com
 - 📫 blog : https://blog.naver.com/zkfmapf123  
