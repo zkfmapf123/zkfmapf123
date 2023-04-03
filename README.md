@@ -1,7 +1,9 @@
 - 👋 Hi, I’m leedonggyu
-- 👋 I'm use Typescript, Golang, Nodejs, React-native, Mysql
+- 👋 I'm use Language Typescript, Golang
+- 👋 I'm use Framework Node, Nest, Fiber
+- 👋 I'm use Database RealTime Database, MySQL, Redis
 - 👀 I’m interested Serverelss, MicroService, Message Queueing, Functional Programming
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS Lambda, EKS, Fargate
  
 - 📫 email : zkfmapf999@gmail.com
 - 📫 blog : https://blog.naver.com/zkfmapf123  
