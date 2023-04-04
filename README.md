@@ -3,7 +3,7 @@
 - 👋 I'm use Framework Node, Nest, Fiber
 - 👋 I'm use Database RealTime Database, MySQL, Redis
 - 👀 I’m interested Serverelss, MicroService, Message Queueing, Functional Programming
-- 🌱 I’m currently learning AWS Lambda, EKS, Fargate
+- 🌱 I’m currently learning AWS Lambda, ECS, Fargate
 - 🌱 I Want Terraform master
  
 - 📫 email : zkfmapf999@gmail.com
