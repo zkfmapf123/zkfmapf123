@@ -1,10 +1,7 @@
 - 👋 Hi, I’m leedonggyu
-- 👋 I'm use Language Typescript, Golang
-- 👋 I'm use Framework Node, Nest, Fiber
-- 👋 I'm use Database RealTime Database, MySQL, Redis
+- 👋 I'm use Language python, golang, typescript
 - 👀 I’m interested Serverelss, MicroService, Message Queueing, Functional Programming
-- 🌱 I’m currently learning AWS Lambda, ECS, Fargate
-- 🌱 I Want Terraform master
+- 🌱 I’m currently learning CI/CD, Automation, AWS Infra
  
 - 📫 email : zkfmapf999@gmail.com
 - 📫 blog : https://blog.naver.com/zkfmapf123  
