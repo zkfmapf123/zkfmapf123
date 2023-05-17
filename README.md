@@ -1,7 +1,7 @@
 - 👋 Hi, I’m leedonggyu
 - 👋 I'm use Language python, golang, typescript
 - 👀 I’m interested Serverelss, MicroService, Message Queueing, Functional Programming
-- 🌱 I’m currently learning CI/CD, Automation, AWS Infra
+- 🌱 I’m currently learning CI/CD, EKS, AWS Infra
  
 - 📫 email : zkfmapf999@gmail.com
 - 📫 blog : https://blog.naver.com/zkfmapf123  
