@@ -1,6 +1,8 @@
 - 👋 Hi, I’m leedonggyu
 - 👋 I'm use Language python, golang, typescript
-- 👀 I’m interested Serverelss, MicroService, Message Queueing, Functional Programming
+- 👋 I'm use Infra Template Packer, Ansible, Terraform
+- 👋 I'm use Devops Tools Gitlab, Jenkins, ELK 
+- 👀 I’m interested AWS, Kubernetis, Infra Automation
 - 🌱 I’m currently learning CI/CD, EKS, AWS Infra
  
 - 📫 email : zkfmapf999@gmail.com
