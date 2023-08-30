@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning CI/CD, EKS, AWS Infra
  
 - 📫 email : zkfmapf999@gmail.com
-- 📫 blog : https://blog.naver.com/zkfmapf123  
+- 📫 blog : https://blog.naver.com/zkfmapf123
+- 📫 Terraform Module Site : https://registry.terraform.io/namespaces/zkfmapf123
 
 <img src="https://img.shields.io/npm/types/typescript"/>
 
