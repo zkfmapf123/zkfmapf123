@@ -3,7 +3,7 @@
 - 👋 I'm use Infra Template Packer, Ansible, Terraform
 - 👋 I'm use Devops Tools Gitlab, Jenkins, ELK 
 - 👀 I’m interested AWS, Kubernetes, Infra Automation
-- 🌱 I’m currently learning CI/CD, EKS, AWS Infra
+- 🌱 I’m currently learning AirFlow, EKS, AWS Infra
  
 - 📫 email : zkfmapf999@gmail.com
 - 📫 blog : https://blog.naver.com/zkfmapf123
