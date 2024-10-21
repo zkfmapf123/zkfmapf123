@@ -1,7 +1,7 @@
 - 👋 Hi, I’m leedonggyu
 - 👋 I'm use Language python, golang, typescript
 - 👋 I'm use Infra Template Packer, Ansible, Terraform
-- 👋 I'm use Devops Tools Gitlab, Jenkins, ELK 
+- 👋 I'm use Devops Tools Gitlab, Jenkins, Github Action, ELK 
 - 👀 I’m interested AWS, Kubernetes, Infra Automation
 - 🌱 I’m currently learning AirFlow, EKS, AWS Infra
  
