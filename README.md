@@ -9,6 +9,7 @@
 
 - 📫 email : zkfmapf999@gmail.com
 - 📫 blog : https://blog.naver.com/zkfmapf123
+- 📫 T Story : https://zkfmapf999.tistory.com/
 - 📫 Terraform Module Site : https://registry.terraform.io/namespaces/zkfmapf123
 
 ## Projects
