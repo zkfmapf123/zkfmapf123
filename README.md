@@ -1,11 +1,11 @@
 ## Introduction
 
 - 👋 Hi, I’m leedonggyu
-- 👋 I'm use Language python, golang, typescript
-- 👋 I'm use Infra Template Packer, Ansible, Terraform
-- 👋 I'm use Devops Tools Gitlab, Jenkins, Github Action, ELK
+- 👋 I'm use Language Golang, Typescript
+- 👋 I'm use Infra Template Ansible, Terraform, Terragrunt
+- 👋 I'm use Devops Tools Gitlab, Jenkins, Github Action, LGTM
 - 👀 I’m interested AWS, Kubernetes, Infra Automation
-- 🌱 I’m currently learning AirFlow, EKS, AWS Infra
+- 🌱 I’m currently learning LLM, Machine Learning
 
 - 📫 email : zkfmapf999@gmail.com
 - 📫 blog : https://blog.naver.com/zkfmapf123
